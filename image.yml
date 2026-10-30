@@ -20,6 +20,10 @@ upstream:
   sponsor:
   - name: Kimai
     url: https://www.kimai.org/donate/
+  - name: Kimai (Open Collective)
+    url: https://opencollective.com/kimai
+  - name: Kimai (GitHub Sponsors)
+    url: https://github.com/sponsors/kevinpapst
 
 release:
   branch: main
