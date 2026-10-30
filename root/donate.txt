@@ -1,1 +1,3 @@
 Kimai: https://www.kimai.org/donate/
+Kimai (Open Collective): https://opencollective.com/kimai
+Kimai (GitHub Sponsors): https://github.com/sponsors/kevinpapst
